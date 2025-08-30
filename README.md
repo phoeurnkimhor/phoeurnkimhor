@@ -59,7 +59,7 @@
 
 ## 📫 Let's Connect!
 - Telegram: [@kimhorP](https://t.me/kimhorP)  
-- GitHub: [github.com/kimclyde](https://github.com/phoeurnkimhor)  
+- GitHub: [github.com/phoeurnkimhor](https://github.com/phoeurnkimhor)  
 - LinkedIn: [linkedin.com/in/kimhor-phoeurn/](https://www.linkedin.com/in/kimhor-phoeurn)  
 
 
