@@ -59,15 +59,15 @@
 
 ## 📫 Let's Connect!
 - Telegram: [@kimhorP](https://t.me/kimhorP)  
-- GitHub: [github.com/kimclyde](https://github.com/kimclyde)  
+- GitHub: [github.com/kimclyde](https://github.com/phoeurnkimhor)  
 - LinkedIn: [linkedin.com/in/kimhor-phoeurn/](https://www.linkedin.com/in/kimhor-phoeurn)  
 
 
 ---
 
 ## 📊 GitHub Stats
-![Kimhor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimclyde&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimclyde&layout=compact&theme=radical)
+![Kimhor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phoeurnkimhor&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoeurnkimhor&layout=compact&theme=radical)
 
 ---
 
