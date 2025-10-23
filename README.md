@@ -1,10 +1,7 @@
 # Hi there, I'm Kimhor 👋
 
 ## 🎓 About Me
-- 🔬 **Data Science Student** at Institute of Technology of Cambodia (ITC) - AMS Department
-- 🎯 Fifth-year student, graduating in **2026**
-- 🌟 Passionate about **AI/ML, Full-Stack Development, and Data Engineering**
-- 💡 Exploring **DevOps, Data Engineering, and Multi-Agent workflows**
+Most cracked coder btw
 
 ## 🛠️ Tech Stack
 
