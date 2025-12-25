@@ -1,17 +1,15 @@
-# Hi there, I'm Kimhor 👋
+![Header](assets/github-header-banner.png)
 
-## 🎓 About Me
-Most cracked coder btw
+## About Me
+I am a Data Science enthusiast passionate about machine learning, AI, and data-driven solutions. I enjoy building projects that combine research, engineering, and real-world impact.
+
+
 
 ## 🛠️ Tech Stack
-
-### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### Frameworks & Libraries
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -20,19 +18,10 @@ Most cracked coder btw
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green&style=for-the-badge)
-
-### Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&stlye=for-the-badge)
-
-### Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python)
-
-### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -40,31 +29,40 @@ Most cracked coder btw
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### Operating System
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
+## Research & Projects
 
-## 🔬 Research & Projects
+<details>
+<summary>Khmer Handwritten Recognition</summary>
 
-### Khmer Handwritten Recognition
-- Implementing **advanced sequential models (LSTM, GRU, BiLSTM)** for Khmer digit recognition.  
+- Implementing advanced sequential models: LSTM, GRU, BiLSTM for Khmer digit recognition.  
+- Focus on sequence modeling and high accuracy classification.  
 - [View Paper](https://drive.google.com/file/d/1JDo-DWBjBXznPCYfNGPYfxa-AKgkWS7l/view?usp=sharing)
 
----
+</details>
 
 
-## 📫 Let's Connect!
+
+## GitHub Stats & Activity
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoeurnkimhor&theme=radical" alt="Profile Summary" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phoeurnkimhor&theme=radical" alt="Profile Stats" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phoeurnkimhor&theme=radical" alt="Productive Time" width="32%">
+</p>
+
+
+
+
+
+
+
+## Connect with Me
 - Telegram: [@kimhorP](https://t.me/kimhorP)  
 - GitHub: [github.com/phoeurnkimhor](https://github.com/phoeurnkimhor)  
 - LinkedIn: [linkedin.com/in/kimhor-phoeurn/](https://www.linkedin.com/in/kimhor-phoeurn)  
 
-
 ---
 
-## 📊 GitHub Stats
-![Kimhor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phoeurnkimhor&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoeurnkimhor&layout=compact&theme=radical)
-
----
 
